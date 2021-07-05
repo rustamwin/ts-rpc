@@ -62,7 +62,7 @@
     "koa": "^2.13.1",
     "koa-bodyparser": "^4.3.0",
     "koa-router": "^7.4.0",
-    "mocha": "^8.2.1",
+    "mocha": "^9.0.2",
     "ts-node": "^9.1.1",
     "tslint": "^6.1.3",
     "tslint-stylish": "^2.1.0",
